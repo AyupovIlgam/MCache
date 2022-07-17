@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MCache</string>
+
+    <string name="main_bottom_navigation_menu_video">Video</string>
+    <string name="main_bottom_navigation_menu_audio">Audio</string>
+    <string name="main_bottom_navigation_menu_image">Image</string>
+
+    <string name="kilobytes">%dKB</string>
+</resources>
